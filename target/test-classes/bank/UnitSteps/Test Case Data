@@ -1,0 +1,21 @@
+Browser Launch    chrome       F:\\Banking Project Maven\\PrimusBank\\src\\test\\resources\\DRIVERS\\chromedriver.exe  
+
+open url       				   http://primusbank.qedgetech.com/
+
+enter username  			   *[@id='txtuId']
+ 
+enter password
+
+click on login button  		   *[@id='login']
+
+click on branches  
+
+select country
+
+select state 
+
+select city 
+
+click on search button 
+
+
